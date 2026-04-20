@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-openai
+langchain-community
+python-dotenv
+pytest
+streamlit
+langgraph-checkpoint-sqlite

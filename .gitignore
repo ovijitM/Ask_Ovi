@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+data/*
+
+# Local runtime/state files
+memory.sqlite
+memory.sqlite-shm
+memory.sqlite-wal
+*.db
+
+# OS/editor artifacts
+.DS_Store
+.qodo/
+
+# Streamlit local state
+.streamlit/
